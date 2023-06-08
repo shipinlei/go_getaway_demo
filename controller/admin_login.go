@@ -23,7 +23,7 @@ func AdminLoginRegister(group *gin.RouterGroup) {
 // AdminLogin godoc
 // @Summary 管理员登录
 // @Description 管理员登录
-// @Tags 管理员登录接口
+// @Tags 管理员接口
 // @ID /admin_login/login
 // @Accept  json
 // @Produce  json
